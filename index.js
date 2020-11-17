@@ -3,10 +3,10 @@
 const leftX = 472, leftY = 1453;
 const rightX = 1097, rightY = 1566;
 
+// Please do not touch anything below! Thanks :)
+
 const tempFileName = 'capture.png';
 const croppedTempName = 'crop.png';
-
-// Please do not touch anything below! Thanks :)
 
 const axios = require("axios");
 const RPC = require("discord-rpc");
